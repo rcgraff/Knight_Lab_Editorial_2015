@@ -1,5 +1,4 @@
 # Knight_Lab_Editorial_2015
-## Knight Lab's 2015 editorial
 In this repository we'll submit and edit all of our editorial work for Knight Lab. 
 
 ## General
